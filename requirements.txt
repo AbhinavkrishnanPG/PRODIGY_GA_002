@@ -4,3 +4,5 @@ invisible_watermark
 torch
 transformers
 xformers
+gradio
+
