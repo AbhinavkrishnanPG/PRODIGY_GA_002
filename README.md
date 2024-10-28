@@ -1,5 +1,5 @@
 ---
-title: Text-to-Image Gradio Template
+title: PRODIGY GA 02
 emoji: 🖼
 colorFrom: purple
 colorTo: red
